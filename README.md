@@ -3,8 +3,8 @@
 
 rm -rf ATC
 
-git clone https://github.com/BaSir-404/ATC.git
+git clone https://github.com/BaSir-404/ATC
 
 cd ATC
 
-python atc.pyc
+python Atc.pyc
